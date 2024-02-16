@@ -1,0 +1,2 @@
+- To get some practice with using objects and object-oriented techniques in a real-world context.\n
+- To test comprehension of JavaScript objects and object-oriented constructs.

@@ -1,0 +1,1 @@
+JavaScript is a versatile programming language primarily used for enhancing the interactivity of websites. It allows one to create dynamic content, handle user input, and interact with the Document Object Model(DOM) of a webpage. It's essential for both front-end and back-end development.

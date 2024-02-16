@@ -1,0 +1,1 @@
+Diving into JavaScript basics.

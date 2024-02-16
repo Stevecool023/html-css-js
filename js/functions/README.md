@@ -1,0 +1,2 @@
+- Functions -- reusable blocks of code.
+- Understanding fundamental concepts behind JavaScript functions.

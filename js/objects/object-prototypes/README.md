@@ -1,0 +1,2 @@
+- Prototypes are the mechanisms by which JavaScript objects inherit features from one another.
+- What is a prototype, how prototype chains work, and how a prototype for an object can be set.

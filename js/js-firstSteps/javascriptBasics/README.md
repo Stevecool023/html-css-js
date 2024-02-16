@@ -1,0 +1,1 @@
+- JavaScript => A programming language that adds interactivity to a website.

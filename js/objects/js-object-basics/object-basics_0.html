@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Objects Basics</title>
+	</head>
+
+	<body>
+		<p>
+		This example requires you to enter commands in your browser's JavaScript console (see
+		<a href="Stevecool023.github.io">What are browser developer tools</a> for more information.)
+		</p>
+
+		<script>
+			const person = {
+				name: {
+					first: "Bob",
+					last: "Smith",
+				},
+				age: 32,
+				bio() {
+					console.log(`${this.name.first} ${this.name.last} is ${this.age} years old.`);
+				},
+				introduceSelf() {
+					console.log(`Hi! I'm ${this.name.first}.`);
+				},
+			};
+			const myDataName = "height";
+			const myDataValue = "1.75m";
+			person[myDataName] = myDataValue;
+		</script>
+	</body>
+</html>
